@@ -1,0 +1,30 @@
+body {
+    background-color: #000;
+}
+
+a {
+    color: #9affb3 !important;
+}
+
+h1 {
+    padding: 10px 0;
+    border-bottom: 1px solid #333;
+    margin-bottom: 30px !important;
+}
+
+h3 {
+    margin-left:10px;
+    font-weight: normal;
+}
+
+
+h4 {
+    color: #fff !important;
+}
+
+h4 a {
+    margin-left:10px;
+    font-weight: normal;
+    color: #fff !important;
+}
+
